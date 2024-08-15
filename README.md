@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Algorthm001
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python basics
-- 💞️ I’m looking to collaborate on python programming language
+- 👀 I’m interested in python and cyber security 
+- 🌱 I’m currently learning cyber security
+- 💞️ I’m looking to collaborate on python programming language and cyber security projects
 - 📫 How to reach me here
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
